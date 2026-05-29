@@ -1,0 +1,185 @@
+{
+    "hero": {
+        "headline": "Heal Naturally. Live Without Pain.",
+        "subheadline": "Expert chiropractic care, cupping therapy & holistic wellness treatments in Airoli, Navi Mumbai.",
+        "cta_primary": "Book a Session",
+        "cta_secondary": "Explore Treatments",
+        "bg_image": "https://images.unsplash.com/photo-1519824141125-994e37c7af46?q=80&w=1600&auto=format&fit=crop"
+    },
+    "trust_bar": {
+        "stat1_num": "500+",
+        "stat1_lbl": "Happy Patients",
+        "stat2_num": "5",
+        "stat2_lbl": "Specialized Treatments",
+        "stat3_num": "Certified",
+        "stat3_lbl": "Practitioners",
+        "stat4_num": "Airoli's",
+        "stat4_lbl": "Trusted Clinic"
+    },
+    "services": [
+        {
+            "id": "deep_tissue",
+            "name": "Deep Tissue Massage",
+            "description": "Releases chronic muscle tension, improves blood flow, and relieves deep-seated pain. Perfect for active individuals, desk professionals, and anyone suffering from muscular stiffness.",
+            "benefits": [
+                "Relieves chronic shoulder and back pain",
+                "Improves joint mobility and flexibility",
+                "Reduces localized muscle inflammation"
+            ],
+            "number": "01",
+            "bg_image": "https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=1200&auto=format&fit=crop",
+            "visible": true
+        },
+        {
+            "id": "cupping_therapy",
+            "name": "Dry / Wet / Fire Cupping",
+            "description": "An ancient, highly effective healing therapy using targeted suction to draw out deep cellular toxins, stimulate blood circulation, and break up rigid muscle fibers.",
+            "benefits": [
+                "Promotes systemic detoxification",
+                "Accelerates muscle tissue repair",
+                "Eases stubborn knots and fascia tension"
+            ],
+            "number": "02",
+            "bg_image": "https://images.unsplash.com/photo-1607990283143-e81e7a2c93ab?q=80&w=1200&auto=format&fit=crop",
+            "visible": true
+        },
+        {
+            "id": "chiropractic_adjustment",
+            "name": "Chiropractic Treatment",
+            "description": "Precise mechanical spinal adjustments and joint alignments designed to correct structural imbalances, relieve pinched nerve pressure, and restore full range of body motion.",
+            "benefits": [
+                "Relieves debilitating back & neck pain",
+                "Corrects spine posture & structural alignment",
+                "Enhances nervous system and reflex functions"
+            ],
+            "number": "03",
+            "bg_image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1200&auto=format&fit=crop",
+            "visible": true
+        },
+        {
+            "id": "needling_therapy",
+            "name": "Needling Therapy (Dry Needling)",
+            "description": "Clinical dry needling targeting localized myofascial trigger points. Releases severe muscle spasms, activates blood flow, and instantly relaxes hyper-irritable spots.",
+            "benefits": [
+                "Releases severe muscle knots and spasms",
+                "Speeds up athletic recovery cycles",
+                "Improves local joint range of motion"
+            ],
+            "number": "04",
+            "bg_image": "https://images.unsplash.com/photo-1512290923902-8a9f81dc236c?q=80&w=1200&auto=format&fit=crop",
+            "visible": true
+        },
+        {
+            "id": "contrast_therapy",
+            "name": "Ice Bath / Steam Therapy",
+            "description": "Advanced hot and cold contrast physical recovery session. Reduces vascular inflammation, flushes out dynamic cellular waste, and deeply stimulates autonomic nervous recovery.",
+            "benefits": [
+                "Drastically reduces post-workout muscle soreness",
+                "Boosts blood circulation and lymphatic drainage",
+                "Enhances energy levels & metabolic reset"
+            ],
+            "number": "05",
+            "bg_image": "https://images.unsplash.com/photo-1517177646641-83fe182e4043?q=80&w=1200&auto=format&fit=crop",
+            "visible": true
+        }
+    ],
+    "why_choose_us": [
+        {
+            "title": "Certified & Experienced Practitioners",
+            "desc": "Highly trained clinical professionals specializing in biomechanical spine correction and traditional cupping therapies."
+        },
+        {
+            "title": "Personalized Treatment Plans",
+            "desc": "We develop custom therapeutic pathways based entirely on your individual anatomy, posture, and pain triggers."
+        },
+        {
+            "title": "Modern & Traditional Combined",
+            "desc": "The perfect synergy of clinical physical adjustments, dry needling, and ancient suction cupping for holistic healing."
+        },
+        {
+            "title": "Convenient Location in Airoli",
+            "desc": "Easily accessible clinical space in Navi Mumbai, equipped with premium therapy amenities and a calming atmosphere."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Amit Sharma",
+            "treatment": "Chiropractic Treatment",
+            "rating": 5,
+            "quote": "I had chronic lower back pain for 3 years. After just 4 sessions of spinal adjustments here, I can bend down and run without any discomfort. Highly recommended!",
+            "visible": true
+        },
+        {
+            "name": "Priya Patil",
+            "treatment": "Cupping Therapy",
+            "rating": 5,
+            "quote": "The wet cupping therapy was amazing. It released all the tension in my stiff shoulders. The clinic is clean, professional, and very welcoming.",
+            "visible": true
+        },
+        {
+            "name": "Rohan Mehta",
+            "treatment": "Deep Tissue Massage",
+            "rating": 5,
+            "quote": "Perfect place for sports recovery! The deep tissue massage and ice bath contrast therapy did wonders for my leg fatigue after the half marathon.",
+            "visible": true
+        },
+        {
+            "name": "Sneha Iyer",
+            "treatment": "Needling Therapy",
+            "rating": 5,
+            "quote": "Dry needling was a game changer for my persistent neck knots. It was completely painless and the relief was almost instantaneous.",
+            "visible": true
+        },
+        {
+            "name": "Karan Johar",
+            "treatment": "Chiropractic Treatment",
+            "rating": 5,
+            "quote": "Incredible diagnostic and treatment process. They explained exactly why my neck was stiff and fixed it step-by-step. Genuine care!",
+            "visible": true
+        }
+    ],
+    "gallery": [
+        {
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=800&auto=format&fit=crop",
+            "caption": "Postural evaluation and precision spinal alignment session"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1519824141125-994e37c7af46?q=80&w=800&auto=format&fit=crop",
+            "caption": "Deep tissue trigger-point therapy and muscular stress release"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1579684389782-64d84b5e902a?q=80&w=800&auto=format&fit=crop",
+            "caption": "Sterilized needle application for deep tissue myofascial release"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1517177646641-83fe182e4043?q=80&w=800&auto=format&fit=crop",
+            "caption": "Therapeutic ice bath contrast physical recovery tub"
+        },
+        {
+            "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?q=80&w=800&auto=format&fit=crop",
+            "caption": "Our welcoming, sanitized, and soothing clinical environment"
+        },
+        {
+            "image": "2wfd",
+            "caption": "Sterile wet cupping therapy for localized pain relief"
+        }
+    ],
+    "contact": {
+        "clinic_name": "Advance Chiropractic Treatment and Cupping Therapy",
+        "address": "Sec 8, Opposite Apple Hospital, Sector 7, Airoli, Navi Mumbai, Maharashtra 400708",
+        "whatsapp": "+91 81691 56124",
+        "whatsapp_raw": "918169156124",
+        "email": "Advance.chiro0909@gmail.com",
+        "instagram": "@chiroairoli",
+        "instagram_url": "https://www.instagram.com/chiroairoli",
+        "map_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.2045610260424!2d72.99611597520371!3d19.186259082040186!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7bf44d5c0b93d%3A0xc3b8686f0ad786e2!2sApple%20Hospital!5e0!3m2!1sen!2sin!4v1716982421345!5m2!1sen!2sin",
+        "map_link": "https://maps.app.goo.gl/4fbqmwQi6z76J4i9A"
+    },
+    "seo": {
+        "title": "Advance Chiropractic Treatment & Cupping Therapy | Airoli, Navi Mumbai",
+        "meta_desc": "Best chiropractic treatment, cupping therapy, deep tissue massage, dry needling & ice bath recovery in Airoli, Navi Mumbai. Book your session now.",
+        "keywords": "chiropractic Navi Mumbai, cupping therapy Airoli, dry needling Navi Mumbai, deep tissue massage Airoli, ice bath recovery, spine adjustment, Apple Hospital Airoli",
+        "favicon": "https://cdn-icons-png.flaticon.com/512/3022/3022238.png",
+        "og_image": "https://images.unsplash.com/photo-1519824141125-994e37c7af46?q=80&w=1200&auto=format&fit=crop"
+    }
+}
